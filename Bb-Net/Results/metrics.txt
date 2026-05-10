@@ -1,0 +1,5 @@
+Precision	0.9689
+Recall	0.9572
+F1-Score	0.963
+mAP50	0.9883
+mAP50-95	0.7601
